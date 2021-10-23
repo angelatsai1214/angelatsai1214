@@ -2,6 +2,7 @@
 
 ## Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
+My name is Angela Tsai. I am a high school senior interested in pursuing computer science. Currently living in California and competing in hackathons to gain more experience!
 <!--
 **angelatsai1214/angelatsai1214** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
