@@ -1,6 +1,4 @@
-[![Angela.png](https://i.postimg.cc/QxfxwkpN/Angela.png)](https://postimg.cc/1fNQNFCb)
-### Hi there 👋
-
+[![Untitled-design.png](https://i.postimg.cc/QdqP005S/Untitled-design.png)](https://postimg.cc/4YmB3vWh)### Hi there 👋
 <!--
 **angelatsai1214/angelatsai1214** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
