@@ -1,4 +1,4 @@
-[![Angela-1.png](https://i.postimg.cc/2yRRP35x/Angela-1.png)](https://postimg.cc/k6cpSJKV)
+[![Angela-2.png](https://i.postimg.cc/C5FJBVrg/Angela-2.png)](https://postimg.cc/ZBM62Xh7)
 ### Hi there 👋
 <!--
 **angelatsai1214/angelatsai1214** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
