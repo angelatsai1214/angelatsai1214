@@ -1,6 +1,6 @@
 [![Angela-2.png](https://i.postimg.cc/C5FJBVrg/Angela-2.png)](https://postimg.cc/ZBM62Xh7)
 
-## Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Hi there! 
 
 <!--
 **angelatsai1214/angelatsai1214** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
