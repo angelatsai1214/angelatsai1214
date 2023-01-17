@@ -1,4 +1,3 @@
-[![Angela-2.png](https://i.postimg.cc/C5FJBVrg/Angela-2.png)](https://postimg.cc/ZBM62Xh7)
 
 ## Hi there! 
 
