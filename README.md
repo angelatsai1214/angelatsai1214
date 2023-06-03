@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![drawing](https://github.com/angelatsai1214/angelatsai1214/assets/64194102/bb5a50f6-13ed-4b5f-932b-d88035be50a0" =50x50)
+![drawing](https://github.com/angelatsai1214/angelatsai1214/assets/64194102/bb5a50f6-13ed-4b5f-932b-d88035be50a0"){width: 50%;}
